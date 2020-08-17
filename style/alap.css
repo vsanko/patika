@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300&display=swap');
+#motto {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+
+}
+#fontos {color: red;
+background-color: darkgoldenrod;}
+.ujdonsag 
+{
+  color: whitesmoke;  
+    font-family: 'MuseoModerno', cursive;
+font-size: 20px;
+background-color:rgba(0, 240, 0, 0.849)
+}
+img {
+    width: 24%; margin-top: 50px;
+}
+.kep {
+    margin-left: 20px;margin-top: 500px; }
+h1 {
+    
+margin-top: 0px;
+background-color: green;
+}
+.cimkepek {
+    text-align: center;
+}
+html {background-image:url(https://image.freepik.com/free-vector/abstract-background-health-care-science-icon-pattern-medical-innovation-concept_44392-177.jpg) ;}
